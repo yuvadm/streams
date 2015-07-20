@@ -1,4 +1,4 @@
-# Streams
+ # Streams
 
 Audio and video streams from various sources. Playable through any media player:
 
@@ -56,6 +56,9 @@ $ mplayer -playlist "protocol://url.example.com/stream"
  - SF 10-33 - http://somafm.com/sf1033.pls
  - Doomed - http://somafm.com/doomed.pls
  - Covers - http://somafm.com/covers.pls
+ - WFMU - http://wfmu.org/wfmu.pls
+ - giveTheDrummerSome - http://wfmu.org/wfmu_drummer.pls
+ - UBUradio - http://wfmu.org/wfmu_ubu.pls
 
 ### ATC
 

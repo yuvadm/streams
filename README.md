@@ -56,9 +56,16 @@ $ mplayer -playlist "protocol://url.example.com/stream"
  - SF 10-33 - http://somafm.com/sf1033.pls
  - Doomed - http://somafm.com/doomed.pls
  - Covers - http://somafm.com/covers.pls
- - WFMU - http://wfmu.org/wfmu.pls
+
+
+### WFMU
+via [https://wfmu.org/](WFMU  listener-supported, 
+non-commercial radio station )
+ - WFMU live stream - http://wfmu.org/wfmu.pls
  - giveTheDrummerSome - http://wfmu.org/wfmu_drummer.pls
  - UBUradio - http://wfmu.org/wfmu_ubu.pls
+ - Rock 'n' Roll Ichiban - http://wfmu.org/wfmu_rock.pls
+
 
 ### ATC
 

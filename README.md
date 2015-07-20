@@ -19,6 +19,7 @@ $ mplayer -playlist "protocol://url.example.com/stream"
 
 #### Israel
 
+ - 88FM - http://82.80.192.28/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8
  - 106FM - http://106fm.livecdn.biz:7075/listen.pls
 
 #### SomaFM
@@ -74,6 +75,7 @@ Via [LiveATC.net](http://www.liveatc.net)
 #### Israel
 
  - Channel 1 - http://82.80.192.28/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8
+ - Channel 10 - http://nana10-hdl-il.ctedgecdn.net/hls/amlst:hd_,1000,1500,1800,/playlist.m3u8
 
 #### Other
 

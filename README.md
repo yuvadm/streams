@@ -77,7 +77,15 @@ Via [LiveATC.net](http://www.liveatc.net)
  - San Francisco Tower - http://www.liveatc.net/play/ksfo_twr.pls
  - New York JFK Approach - http://www.liveatc.net/play/kjfk_app_rober.pls
 
+
 ## Video
+
+### TAMI
+ - Science Film Fest [wiki](http://telavivmakers.org/index.php/ScienceFilmFest) - tami.org.il:8000/sff.ogg 
+
+### 7chan
+user generated tv channel, more on #7chan
+ - 7chan TV - http://radio.7chan.org:8000/CH7
 
 ### TV
 

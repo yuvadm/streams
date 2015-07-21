@@ -1,10 +1,11 @@
-# Streams
+ # Streams
 
 Audio and video streams from various sources. Playable through any media player:
 
 ```bash
 $ vlc --open "protocol://url.example.com/stream"
 $ mplayer "protocol://url.example.com/stream"
+$ mpv "protocol://url.example.com/stream"
 ```
 
 Some streams might require the mplayer `-playlist` parsing flag:
@@ -12,6 +13,8 @@ Some streams might require the mplayer `-playlist` parsing flag:
 ```bash
 $ mplayer -playlist "protocol://url.example.com/stream"
 ```
+[mpv](mpv.io) is a fork of mplayer, it adds built 
+in support for many streaming sources (youtube, etc)
 
 ## Audio
 
@@ -57,6 +60,16 @@ $ mplayer -playlist "protocol://url.example.com/stream"
  - Doomed - http://somafm.com/doomed.pls
  - Covers - http://somafm.com/covers.pls
 
+
+### WFMU
+via [https://wfmu.org/](WFMU  listener-supported, 
+non-commercial radio station )
+ - WFMU live stream - http://wfmu.org/wfmu.pls
+ - giveTheDrummerSome - http://wfmu.org/wfmu_drummer.pls
+ - UBUradio - http://wfmu.org/wfmu_ubu.pls
+ - Rock 'n' Roll Ichiban - http://wfmu.org/wfmu_rock.pls
+
+
 ### ATC
 
 Via [LiveATC.net](http://www.liveatc.net)
@@ -67,7 +80,15 @@ Via [LiveATC.net](http://www.liveatc.net)
  - San Francisco Tower - http://www.liveatc.net/play/ksfo_twr.pls
  - New York JFK Approach - http://www.liveatc.net/play/kjfk_app_rober.pls
 
+
 ## Video
+
+### tami
+ - Science Film Fest [wiki](http://telavivmakers.org/index.php/ScienceFilmFest) - tami.org.il:8000/sff.ogg 
+
+### 7chan
+user generated tv channel, more on #7chan
+ - 7chan TV - http://radio.7chan.org:8000/CH7
 
 ### TV
 

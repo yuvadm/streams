@@ -1,4 +1,4 @@
- # Streams
+# Streams
 
 Audio and video streams from various sources. Playable through any media player:
 
@@ -13,7 +13,7 @@ Some streams might require the mplayer `-playlist` parsing flag:
 ```bash
 $ mplayer -playlist "protocol://url.example.com/stream"
 ```
-[mpv](mpv.io) is a fork of mplayer, it adds built 
+[mpv](http://mpv.io) is a fork of mplayer, it adds built 
 in support for many streaming sources (youtube, etc)
 
 ## Audio
@@ -84,11 +84,13 @@ Via [LiveATC.net](http://www.liveatc.net)
 
 ## Video
 
-### tami
- - Science Film Fest [wiki](http://telavivmakers.org/index.php/ScienceFilmFest) - tami.org.il:8000/sff.ogg 
+### TAMI
+ - [Science Film Fest](http://telavivmakers.org/index.php/ScienceFilmFest) - http://tami.org.il:8000/sff.ogg 
 
 ### 7chan
-user generated tv channel, more on #7chan
+
+User generated TV channel, more on #7chan
+
  - 7chan TV - http://radio.7chan.org:8000/CH7
 
 ### TV

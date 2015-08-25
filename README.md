@@ -98,7 +98,7 @@ User generated TV channel, more on #7chan
 #### Israel
 
  - Channel 1 - http://82.80.192.28/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8
- - Channel 10 - http://nana10-hdl-il.ctedgecdn.net/hls/amlst:hd_,1000,1500,1800,/playlist.m3u8
+ - Channel 10 - http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
 
 #### Other
 

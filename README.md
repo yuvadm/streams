@@ -102,4 +102,6 @@ User generated TV channel, more on #7chan
 
 #### Other
 
+ - Al-Jazeera - http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8
+ - Al-Jazeera English - http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
  - Al-Mayadeen - [rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p](rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p)

@@ -25,6 +25,10 @@ in support for many streaming sources (youtube, etc)
  - 88FM - http://82.80.192.28/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8
  - 106FM - http://106fm.livecdn.biz:7075/listen.pls
 
+#### US
+
+ - KEXP - http://live-aacplus-64.kexp.org/kexp64.aac
+
 #### SomaFM
 
 [Support SomaFM](http://somafm.com/support/) - they're awesome and deserve it!

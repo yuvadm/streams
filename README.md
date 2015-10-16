@@ -101,7 +101,8 @@ User generated TV channel, more on #7chan
 
 #### Israel
 
- - Channel 1 - http://82.80.192.28/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8
+ - Channel 1 - http://iba-s.vidnt.com/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8
+ - Channel 1 (archive) - http://iba-s.vidnt.com/iba_vod/_definst_/smil:iba-QweRtY-A1B2.smil/playlist.m3u8
  - Channel 10 - http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
 
 #### Other

@@ -13,7 +13,7 @@ Some streams might require the mplayer `-playlist` parsing flag:
 ```bash
 $ mplayer -playlist "protocol://url.example.com/stream"
 ```
-[mpv](http://mpv.io) is a fork of mplayer, it adds built 
+[mpv](http://mpv.io) is a fork of mplayer, it adds built
 in support for many streaming sources (youtube, etc)
 
 ## Audio
@@ -67,7 +67,7 @@ in support for many streaming sources (youtube, etc)
 
 
 ### WFMU
-via [https://wfmu.org/](WFMU  listener-supported, 
+via [https://wfmu.org/](WFMU  listener-supported,
 non-commercial radio station )
  - WFMU live stream - http://wfmu.org/wfmu.pls
  - giveTheDrummerSome - http://wfmu.org/wfmu_drummer.pls
@@ -89,7 +89,7 @@ Via [LiveATC.net](http://www.liveatc.net)
 ## Video
 
 ### TAMI
- - [Science Film Fest](http://telavivmakers.org/index.php/ScienceFilmFest) - http://tami.org.il:8000/sff.ogg 
+ - [Science Film Fest](http://telavivmakers.org/index.php/ScienceFilmFest) - http://tami.org.il:8000/sff.ogg
 
 ### 7chan
 

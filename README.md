@@ -24,6 +24,7 @@ in support for many streaming sources (youtube, etc)
 
  - 88FM - http://82.80.192.28/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8
  - 106FM - http://106fm.livecdn.biz:7075/listen.pls
+ - [KZradio](http://kzradio.net) - http://s2.kzradio.net/live/mp3/icecast.audio
 
 #### US
 

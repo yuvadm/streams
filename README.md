@@ -102,6 +102,10 @@ User generated TV channel, more on #7chan
 
  - 7chan TV - http://radio.7chan.org:8000/CH7
 
+###halalit.tv
+art stuf and live shows from the halalit base station   
+ - [halalit.tv](http://halalit.tv/) -  and [direct link from site](https://2d36579ff3c0afb4ea81dab981eb5b17578e1b84.googledrive.com/host/0B0hqLhSRG0zDZUgyYUdoTTVjc2M stream)
+
 ### TV
 
 #### Israel

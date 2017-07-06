@@ -25,7 +25,7 @@ in support for many streaming sources (youtube, etc)
  - 88FM - http://iba-s.vidnt.com/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8
  - 106FM - http://106fm.livecdn.biz:7075/
  - [KZradio](http://kzradio.net) - http://s2.kzradio.net/live/mp3/icecast.audio
- - Galgalatz - http://test.live.net.il/glgltz-a-zixief.m3u8 (# not working anymore)
+ - Galgalatz - http://glzwizzlv.bynetcdn.com/glglz_mp3
  - Reshet Gimmel - http://radiocast-rr-d.vidnt.com/ipbc_IPBCgimmelLAM
  
 

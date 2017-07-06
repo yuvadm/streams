@@ -71,8 +71,9 @@ in support for many streaming sources (youtube, etc)
 
 
 ### WFMU
-via [https://wfmu.org/](WFMU  listener-supported,
-non-commercial radio station )
+
+Via [WFMU listener-supported, non-commercial radio station](https://wfmu.org)
+
  - WFMU live stream - http://wfmu.org/wfmu.pls
  - giveTheDrummerSome - http://wfmu.org/wfmu_drummer.pls
  - UBUradio - http://wfmu.org/wfmu_ubu.pls

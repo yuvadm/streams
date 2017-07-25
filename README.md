@@ -104,7 +104,7 @@ User generated TV channel, more on #7chan
 
 ### Public Cams
 
-#### Jerusalem
+#### Wazcam 
 
  - http://live.wazcam.net/live/quds.stream/playlist.m3u8
  - http://live.wazcam.net/live/kana.stream/playlist.m3u8

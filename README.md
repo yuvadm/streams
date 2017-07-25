@@ -102,6 +102,20 @@ User generated TV channel, more on #7chan
 
  - 7chan TV - http://radio.7chan.org:8000/CH7
 
+### Public Cams
+
+#### Jerusalem
+
+ - http://live.wazcam.net/live/quds.stream/playlist.m3u8
+ - http://live.wazcam.net/live/kana.stream/playlist.m3u8
+ - http://live.wazcam.net/live/tamra.stream/playlist.m3u8
+ - http://live.wazcam.net/live/shafa.stream/playlist.m3u8
+ - http://live.wazcam.net/live/big.stream/playlist.m3u8
+ - http://live.wazcam.net/live/city2.stream/playlist.m3u8
+ - http://live.wazcam.net/live/yasif.stream/playlist.m3u8
+ - http://live.wazcam.net/live/mashhad.stream/playlist.m3u8
+ - http://live.wazcam.net/live/reneh.stream/playlist.m3u8
+
 ### TV
 
 #### Israel

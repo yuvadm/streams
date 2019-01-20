@@ -27,7 +27,7 @@ in support for many streaming sources (youtube, etc)
  - [KZradio](http://kzradio.net) - http://s2.kzradio.net/live/mp3/icecast.audio
  - Galgalatz - http://glzwizzlv.bynetcdn.com/glglz_mp3
  - Reshet Gimmel - http://radiocast-rr-d.vidnt.com/ipbc_IPBCgimmelLAM
- 
+ - Kan Bet - https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/kanbet_mp3/chunklist.m3u8
 
 #### US
 

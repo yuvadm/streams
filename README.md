@@ -3,18 +3,12 @@
 Audio and video streams from various sources. Playable through any media player:
 
 ```bash
-$ vlc --open "protocol://url.example.com/stream"
-$ mplayer "protocol://url.example.com/stream"
 $ mpv "protocol://url.example.com/stream"
+$ vlc --open "protocol://url.example.com/stream"
 ```
 
-Some streams might require the mplayer `-playlist` parsing flag:
-
-```bash
-$ mplayer -playlist "protocol://url.example.com/stream"
-```
-[mpv](http://mpv.io) is a fork of mplayer, it adds built
-in support for many streaming sources (youtube, etc)
+[mpv](http://mpv.io) is a fork of mplayer, and is probably your player of choice.
+It adds built in support for many streaming sources (youtube, etc).
 
 ## Audio
 

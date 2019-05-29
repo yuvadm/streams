@@ -114,12 +114,9 @@ User generated TV channel, more on #7chan
 
 #### Israel
 
- - Channel 1 - http://iba-s.vidnt.com/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8
- - Channel 1 (archive) - http://iba-s.vidnt.com/iba_vod/_definst_/smil:iba-QweRtY-A1B2.smil/playlist.m3u8
+ - Channel 1 - https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
  - Channel 13 - https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
    - Requires `Referer` header: `mpv --http-header-fields "Referer: https://besttv1.aoslive.it.best-tv.com/" https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8`
- - Channel 2 (Keshet) - http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
- - Channel 2 (Reshet) - http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
 
 #### Other
 

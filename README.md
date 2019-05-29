@@ -117,6 +117,7 @@ User generated TV channel, more on #7chan
  - Channel 1 - https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
  - Channel 13 - https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
    - Requires `Referer` header: `mpv --http-header-fields "Referer: https://besttv1.aoslive.it.best-tv.com/" https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8`
+ - Channel 99 - https://w1.013.gostreaming.tv/Knesset/myStream/playlist.m3u8
 
 #### Other
 

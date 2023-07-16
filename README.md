@@ -1,3 +1,9 @@
+# Streams - Deprecated ⚠️
+
+Check out https://github.com/streamlib/streamlib/ 
+
+<hr>
+
 # Streams
 
 Audio and video streams from various sources. Playable through any media player:
